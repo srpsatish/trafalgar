@@ -25,7 +25,7 @@ export default function MediaCard5() {
       <CardActionArea>
         <CardMedia
           className={classes.media}
-          image="https://t4.ftcdn.net/jpg/03/31/97/85/240_F_331978586_c3h3aocTKyb3QRuzA9IYWhZ2QyiQhv39.jpg"
+          image="https://t4.ftcdn.net/jpg/03/16/53/91/240_F_316539133_UTp5lI1pVgA7mG6ApbRaCb4iSzhKvYcF.jpg"
         />
         <CardContent>
           <Typography gutterBottom variant="h6">
