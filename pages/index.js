@@ -6,6 +6,7 @@ import { Button } from '@material-ui/core';
 import MediaCard from './box';
 import MediaCard1 from './box1';
 import MediaCard2 from './box2'
+import ButtonAppBar from './bar'
 export default function Home() {
   return (<>
  
@@ -14,8 +15,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=0.7"></meta>
         <title>Trafalgar</title>
         <link rel="icon" href="/favicon.ico" />
-      </Head><header>
-      <PrimarySearchAppBar/></header>
+      </Head><ButtonAppBar/>
       <main>
         <br></br>
       <Grid container spacing={4}>
