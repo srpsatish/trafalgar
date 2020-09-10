@@ -14,8 +14,8 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=0.7"></meta>
         <title>Trafalgar</title>
         <link rel="icon" href="/favicon.ico" />
-      </Head>
-      <PrimarySearchAppBar/>
+      </Head><header>
+      <PrimarySearchAppBar/></header>
       <main>
         <br></br>
       <Grid container spacing={4}>
