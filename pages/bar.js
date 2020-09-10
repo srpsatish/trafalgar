@@ -160,14 +160,6 @@ export default function PrimarySearchAppBar() {
     <div className={classes.grow}>
       <AppBar style={{backgroundColor:"white",boxShadow:"none"}} position="static">
         <Toolbar>
-          <IconButton
-            edge="start"
-            className={classes.menuButton}
-            color="inherit"
-            aria-label="open drawer"
-          >
-              <NotificationsIcon style={{color:"black"}} />
-          </IconButton>
           <Typography className={classes.title} variant="h6" style={{color:"black"}} noWrap>
             Trafalgar
           </Typography>
