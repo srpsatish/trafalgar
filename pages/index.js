@@ -41,7 +41,7 @@ export default function Home() {
         <center><Typography variant="h4">___</Typography></center>
         <center><p style={{color:"grey",fontSize:"12px",padding:"0rem 5rem 3rem 5rem"}}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultricies dapibus nulla, ac fringilla nulla mattis luctus. Mauris fringilla blandit lacus, sed scelerisque erat maximus sed. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque ut sagittis dui. </p></center>
         <div id="p"><Grid container spacing={3}><Grid item xs={12} sm={4} ><MediaCard/></Grid><br></br>
-        <Grid item xs={12} sm={4} ><MediaCard1/></Grid><br></br><Grid item xs={12} sm={4} ><MediaCard2/></Grid><br></br><Grid item xs={12} sm={4} ><MediaCard3/></Grid><br></br><Grid item xs={12} sm={4} ><MediaCard4/></Grid><br></br><br></br><Grid item xs={12} sm={4} ><MediaCard5/></Grid><br></br></Grid></div>
+        <Grid item xs={12} sm={4} ><MediaCard1/></Grid><br></br><Grid item xs={12} sm={4} ><MediaCard2/></Grid><br></br><Grid item xs={12} sm={4} ><MediaCard3/></Grid><br></br><Grid item xs={12} sm={4} ><MediaCard4/></Grid><br></br><br></br><Grid item xs={12} sm={4} ><MediaCard5/></Grid></Grid></div>
         <br></br>
         <Test/>
       </main>

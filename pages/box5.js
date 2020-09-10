@@ -25,7 +25,8 @@ export default function MediaCard5() {
       <CardActionArea>
         <CardMedia
           className={classes.media}
-          image="https://t4.ftcdn.net/jpg/03/00/36/05/240_F_300360509_LZ0qmcSfKMm131e0UWFRjkbTAHM8ddeo.jpg"
+          image="https://t3.ftcdn.net/jpg/01/90/18/42/240_F_190184240_PhMJavFInMu0jW2ebj7BNEdN33cbF9sV.jpg"
+          title="Contemplative Reptile"
         />
         <CardContent>
           <Typography gutterBottom variant="h6">
