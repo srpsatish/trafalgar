@@ -8,14 +8,14 @@ import MediaCard1 from './box1';
 import MediaCard2 from './box2'
 export default function Home() {
   return (<>
-  <PrimarySearchAppBar/>
+ 
       <Head>
       <meta charset="utf-8"></meta>
-        <meta name="viewport" content="width=device-width, initial-scale=0.85"></meta>
+        <meta name="viewport" content="width=device-width, initial-scale=0.7"></meta>
         <title>Trafalgar</title>
         <link rel="icon" href="/favicon.ico" />
-      </Head>
-      
+      </Head><header>
+      <PrimarySearchAppBar/></header>
       <main>
         <br></br>
       <Grid container spacing={4}>
