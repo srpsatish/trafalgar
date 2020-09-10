@@ -17,7 +17,7 @@ const useStyles = makeStyles({
   },
 });
 
-export default function MediaCard2() {
+export default function MediaCard() {
   const classes = useStyles();
 
   return (
@@ -25,7 +25,7 @@ export default function MediaCard2() {
       <CardActionArea>
         <CardMedia
           className={classes.media}
-          image="https://t3.ftcdn.net/jpg/02/94/39/70/240_F_294397013_kEXgTfHlvnBhBRKl9ZWLaHl5z1dBmbUN.jpg"
+          image="https://t4.ftcdn.net/jpg/03/32/93/91/240_F_332939154_XWcihQyPzTiUJ77Rcpw0HDHjjpqVWw8t.jpg"
           title="Contemplative Reptile"
         />
         <CardContent>
