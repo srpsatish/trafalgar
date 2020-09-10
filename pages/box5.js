@@ -25,7 +25,7 @@ export default function MediaCard5() {
       <CardActionArea>
         <CardMedia
           className={classes.media}
-          image="https://stock.adobe.com/in/images/group-people-wearing-medical-mask-with-smartphones-wireless-and-gps-location-social-media-coronavirus-concept-vector-illustration-design/356291981"
+          image="https://t4.ftcdn.net/jpg/03/16/53/91/240_F_316539133_UTp5lI1pVgA7mG6ApbRaCb4iSzhKvYcF.jpg"
         />
         <CardContent>
           <Typography gutterBottom variant="h6">
